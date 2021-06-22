@@ -1,2 +1,2 @@
 # codes
-writesups
+writeups
